@@ -1,11 +1,12 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
+### REG.NO: 212223060003
+
+### NAME: ABINANDHAN G
+
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-### REG.NO: 212223230153
-
-### NAME: PRAVEEN K
 
 
 ## Scenario:
